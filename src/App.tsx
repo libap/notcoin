@@ -113,7 +113,7 @@ const App = () => {
                 }}
                 onAnimationEnd={() => handleAnimationEnd(click.id)}
               >
-                12
+                Beta Version 🚀
               </div>
             ))}
           </div>
