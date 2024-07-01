@@ -88,7 +88,7 @@ const App = () => {
                 <div className="h-[48px] w-[2px] bg-[#fddb6d]"></div>
                 <button className="flex flex-col items-center gap-1">
                   <img src={rocket} width={24} height={24} alt="High Voltage" />
-                  <span>Boosts</span>
+                  <span><a href='https://t.me/gasPump_bot/app?startapp=eyJyZWZfdXNlcl9pZCI6NjA1MTg1MzE4OSwidG9rZW5fYWRkcmVzcyI6IkVRRGltaVk2QXljNmMxT0R3X3gtVWxTZUNSWEptXzlaaTNWTmhPcnJrcjVxS2hQZyJ9'>Gaspump</a> </span>
                 </button>
               </div>
             </div>
